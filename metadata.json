@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Multi-Modal Studio",
+  "description": "An all-in-one application to generate and edit images, generate video from images, convert text to speech, and get low-latency text responses using various Gemini models.",
+  "requestFramePermissions": []
+}
